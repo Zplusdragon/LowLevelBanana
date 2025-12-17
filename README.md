@@ -1,5 +1,8 @@
 # Is Nano Banana Pro a Low-Level Vision All-Rounder? 🍌
-## A Comprehensive Evaluation on 14 Tasks and 40 Datasets
+<p align="center">
+  <img src="assets/abs.png" alt="Teaser Image" width="60%">
+<p align="center">
+  
 
 **Jialong Zuo, Haoyou Deng, Hanyu Zhou, Jiaxin Zhu, Yicheng Zhang, Yiwei Zhang, Yongxin Yan, Kaixing Huang, Weisen Chen, Yongtai Deng, Rui Jin, Nong Sang, Changxin Gao**
 
