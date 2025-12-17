@@ -35,6 +35,9 @@ While commercial T2I models like **Nano Banana Pro** excel in creative synthesis
     - ✅ **Superior Subjective Quality:** Often hallucinates plausible high-frequency details that surpass specialist models.
     - ❌ **Lower Reference-Based Metrics:** Lags behind in PSNR/SSIM due to the inherent stochasticity of generative models.
 
+## 💻 Evaluation Code
+We will provide the complete evaluation code for the quantitative results of each task, which is currently being organized. Please stay tuned.
+
 
 ## 📊 Evaluation Results
 *Detailed quantitative and qualitative comparisons can be found in our project page and full report.*
