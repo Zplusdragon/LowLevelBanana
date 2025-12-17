@@ -18,7 +18,7 @@ This repository hosts the official resources for the technical report: **"Is Nan
 While commercial T2I models like **Nano Banana Pro** excel in creative synthesis, their potential as generalist solvers for traditional low-level vision challenges remains largely underexplored. In this study, we investigate the critical question: **Is Nano Banana Pro a Low-Level Vision All-Rounder?** We conducted a comprehensive **zero-shot evaluation** across **14 distinct low-level tasks** spanning **40 diverse datasets**.
 
 <p align="center">
-  <img src="figures/icons/intro.png" alt="Teaser Image" width="100%">
+  <img src="assets/intro.png" alt="Teaser Image" width="100%">
 </p>
 <p align="center">
   <em>Figure 1: Exemplary zero-shot results of Nano Banana Pro across 14 low-level vision tasks.</em>
