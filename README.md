@@ -53,9 +53,12 @@ We have released the evaluation datasets and corresponding inferred results of N
 If you find this work helpful for your research, please consider citing:
 
 ```bibtex
-@techreport{zuo2025nanobanana,
-  title={Is Nano Banana Pro a Low-Level Vision All-Rounder? A Comprehensive Evaluation on 14 Tasks and 40 Datasets},
-  author={Zuo, Jialong and Deng, Haoyou and Zhou, Hanyu and Zhu, Jiaxin and Zhang, Yicheng and Zhang, Yiwei and Yan, Yongxin and Huang, Kaixing and Chen, Weisen and Deng, Yongtai and Jin, Rui and Sang, Nong and Gao, Changxin},
-  institution={Huazhong University of Science and Technology},
-  year={2025}
+@misc{zuo2025nanobananaprolowlevel,
+      title={Is Nano Banana Pro a Low-Level Vision All-Rounder? A Comprehensive Evaluation on 14 Tasks and 40 Datasets}, 
+      author={Jialong Zuo and Haoyou Deng and Hanyu Zhou and Jiaxin Zhu and Yicheng Zhang and Yiwei Zhang and Yongxin Yan and Kaixing Huang and Weisen Chen and Yongtai Deng and Rui Jin and Nong Sang and Changxin Gao},
+      year={2025},
+      eprint={2512.15110},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2512.15110}, 
 }
