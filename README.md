@@ -35,10 +35,6 @@ While commercial T2I models like **Nano Banana Pro** excel in creative synthesis
     - ✅ **Superior Subjective Quality:** Often hallucinates plausible high-frequency details that surpass specialist models.
     - ❌ **Lower Reference-Based Metrics:** Lags behind in PSNR/SSIM due to the inherent stochasticity of generative models.
 
-## 💻 Evaluation Code
-We will provide the complete evaluation code for the quantitative results of each task, which is currently being organized. Please stay tuned.
-
-
 ## 📊 Evaluation Results
 *Detailed quantitative and qualitative comparisons can be found in our project page and full report.*
 
@@ -46,7 +42,10 @@ Our extensive analysis identifies Nano Banana Pro as a capable **zero-shot conte
 
 We have released the evaluation datasets and corresponding inferred results of Nano Banana Pro used in our study on HuggingFace to facilitate future research.
 
-[**Download the Inferred Results on HuggingFace**](https://huggingface.co/datasets/jlongzuo/LowLevelEval)
+[**Download the Inference Results on HuggingFace**](https://huggingface.co/datasets/jlongzuo/LowLevelEval)
+
+## 💻 Evaluation Code
+[2025/12/13 updated] After downloading the inference results of Nano Banana Pro for each dataset from [HuggingFace](https://huggingface.co/datasets/jlongzuo/LowLevelEval), you can use the evaluation code provided for each task to obtain quantitative results. Please refer to the eval folder.
 
 ## 🔗 Citation
 
