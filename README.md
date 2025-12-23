@@ -45,7 +45,7 @@ We have released the evaluation datasets and corresponding inferred results of N
 [**Download the Inference Results on HuggingFace**](https://huggingface.co/datasets/jlongzuo/LowLevelEval)
 
 ## 💻 Evaluation Code
-[2025/12/13 updated] After downloading the inference results of Nano Banana Pro for each dataset from [HuggingFace](https://huggingface.co/datasets/jlongzuo/LowLevelEval), you can use the evaluation code provided for each task to obtain quantitative results. Please refer to the eval folder.
+[2025/12/13 updated] After downloading the inference results of Nano Banana Pro for each dataset from [HuggingFace](https://huggingface.co/datasets/jlongzuo/LowLevelEval), you can use the evaluation code provided for each task to obtain quantitative results. Please refer to the [eval](https://github.com/Zplusdragon/LowLevelBanana/tree/main/eval) folder.
 
 ## 🔗 Citation
 
